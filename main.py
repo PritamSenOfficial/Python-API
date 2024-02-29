@@ -1,5 +1,5 @@
+# This is the code for creat an API using Python Fast API
 from typing import Union
-
 from fastapi import FastAPI, Response, HTTPException, status
 from pydantic import BaseModel
 from fastapi.params import Body
